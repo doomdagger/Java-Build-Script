@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Main-Class: recommend.search.LuceneDemo
+Class-Path: lib/JavaBridge.jar 
+ lib/lucene-analyzers-common-4.8.0.jar 
+ lib/lucene-core-4.8.0.jar 
+ lib/lucene-demo-4.8.0.jar 
+ lib/lucene-queryparser-4.8.0.jar 
+ lib/mysql-connector-java.jar 
+ 
+
